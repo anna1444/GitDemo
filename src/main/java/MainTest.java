@@ -3,5 +3,7 @@ public class MainTest {
         User user = new User("Tom");
         System.out.println("Hello " + user.getName());
         user.sayHello();
+        user.sayBye();
+
     }
 }
