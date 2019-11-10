@@ -16,4 +16,7 @@ public class User {
     public void sayHello(){
         System.out.println("Hello everyone");
     }
+    public void sayBye(){
+        System.out.println("say bye");
+    }
 }
